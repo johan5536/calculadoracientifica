@@ -15,8 +15,9 @@ Una aplicación de calculadora científica desarrollada en **Python** con **Tkin
 
 ## 🖼️ Captura de pantalla
 
-(![image](https://github.com/user-attachments/assets/18e44f13-f8b3-4097-ac8e-6c26889c8e9c)
-![image](https://github.com/user-attachments/assets/f2a08cb8-96a6-4ad4-8dcc-10723e7065df)
+(![image](https://github.com/user-attachments/assets/294931eb-f4ca-45ba-903a-aa726d0db777)
+)
+)
 )`)
 
 ## 🛠️ Tecnologías utilizadas
